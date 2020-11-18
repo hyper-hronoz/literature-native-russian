@@ -1,0 +1,15 @@
+.block_4{
+	width: 100%;
+	height: 755px;
+	padding-top: 128px;
+}
+.block_4_img{
+	height: 350px;
+	width: 350px;
+	background-image: url(img/img_block_4.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.block_4_lessons{
+	width: calc(100% - 350px);
+}

@@ -1,0 +1,55 @@
+.block_2{
+	height: 980px;
+	width: 100%;
+}
+.container{
+	height: 100%;
+}
+.why{
+	height: 490px;
+	width: 100%;
+}
+.titles{
+	font-weight: 700;
+	font-size: 39px;
+}
+.why_info{
+	height: 408px;
+	width: 100%;
+}
+.why_info_img1{
+	height: 100%;
+	width: 50%;
+	background-image: url(img/why_info_img.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.why_info_block{
+	height: 100%;
+	width: 50%;
+	padding-left: 4px;
+}
+.main_why_info1{
+	font-weight: 600;
+	font-size: 24px;
+}
+.main_why_info2{
+	font-weight: 400;
+	font-size: 16px;
+	margin-bottom: 150px;
+}
+/* второй блок, второго блока XD */
+.history_block{
+	height: 490px;
+	width: 100%;
+}
+.why_info_img2{
+	height: 100%;
+	width: 50%;
+	background-image: url(img/why_info_img2.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.second{
+	margin-bottom: 45px;
+}

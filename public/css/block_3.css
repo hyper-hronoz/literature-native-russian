@@ -1,0 +1,36 @@
+.block_3{
+	height: 1279px;
+	width: 100%;
+	margin-top: 150px;
+}
+.first_block_img{
+	width: 550px;
+	height: 363px;
+	background: url(img/first_block_img.png) no-repeat center top / cover;
+}
+.second_block_img{
+	width: 550px;
+	height: 363px;
+	background: url(img/second_block_img.png) no-repeat center top / cover;
+}
+.third_block_img{
+	width: 550px;
+	height: 363px;
+	background: url(img/third_block_img.png) no-repeat center top / cover;
+}
+.lessons{
+	height: 100%;
+	width: calc(100% - 550px);
+}
+.info_advantage1{
+	font-weight: 600;
+	font-size: 24px;
+}
+.info_advantage2{
+	font-weight: 400;
+	font-size: 16px;
+}
+.block{
+	margin-top: 36px;
+	width: 100%;
+}
